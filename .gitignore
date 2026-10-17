@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+.DS_Store
+recordings/
+nllb-600m-ct2/
+nllb-1300m-ct2/
